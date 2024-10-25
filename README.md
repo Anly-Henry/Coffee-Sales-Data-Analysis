@@ -1,4 +1,17 @@
 # Coffee-Sales-Data-Analysis
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Project Objectives](#project-objectives)
+- [Dataset](#dataset)
+- [Process](#process)
+- [Tools & Technologies](#tools--technologies)
+- [Key Insights](#key-insights)
+- [How to Use](#how-to-use)
+- [Future Improvements](#future-improvements)
+- [Conclusion](#conclusion)
+  
 ## Overview
 This project involves analyzing a dataset of coffee sales spanning from 2019 to 2022. The analysis was conducted using Microsoft Excel with Power Query and Power Pivot to clean and prepare the data. The final output is an interactive dashboard showcasing key insights, such as total sales, trends over time, top-selling coffee types, and customer segmentation by country.
 
