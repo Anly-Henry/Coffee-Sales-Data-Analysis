@@ -71,7 +71,7 @@ The dashboard allows for filtering by year, roast type, and customer loyalty car
 ## How to Use
 To explore this project:
 
-1. Download the Excel file:
+1. Download the Excel file: [Coffee Sales Data Analysis Excel File](https://github.com/Anly-Henry/Coffee-Sales-Data-Analysis/blob/main/Coffee%20Shop%20Sales%20data%20analysis.xlsx)
 2. Open the file in Excel.
 3. Navigate through the dashboard to filter and explore the data interactively.
 
